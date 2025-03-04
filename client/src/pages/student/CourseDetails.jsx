@@ -24,7 +24,7 @@ const CourseDetails = () => {
   }
   useEffect(() => {
     fetchCoutrseData()
-  }, [])
+  }, [allCourses])
 
   const toggleSection = (index) => {
     setOpenSections((prev) => (
@@ -110,7 +110,7 @@ const CourseDetails = () => {
               :
               <img src={courseData.courseThumbnail} alt="" />
           }
-        
+
           <div className='p-5'>
             <div className='flex items-center gap-2'>
 
