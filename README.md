@@ -20,19 +20,19 @@ Key highlights:
   
 ## 📖 Table of Contents
 - [Live Demo](#-live-demo)
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Screenshots](#screenshots)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Skills Demonstrated](#skills-demonstrated)
-
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [Architecture](#️-architecture)
+- [Screenshots](#-screenshots)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [API Documentation](#-api-documentation)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [Contact](#-contact)
+- [Skills Demonstrated](#-skills-demonstrated)
+  
 ## ✨ Features
 
 ### For Students
