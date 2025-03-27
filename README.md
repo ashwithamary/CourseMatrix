@@ -4,8 +4,8 @@ CourseMatrix is a full-featured online learning platform that connects educators
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://course-matrix-frontend.vercel.app/](https://course-matrix-frontend.vercel.app/)
-- **Backend**: [https://course-matrix-backend.vercel.app/](https://course-matrix-backend.vercel.app/)
+[https://course-matrix-frontend.vercel.app/](https://course-matrix-frontend.vercel.app/)
+
 
 ## 🎯 Project Overview
 
